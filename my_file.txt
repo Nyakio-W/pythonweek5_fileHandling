@@ -1,0 +1,6 @@
+Hello, this is line 1.
+12345
+This is line 3 with some special characters: !@#$%^&*
+Appeniding to the last one
+GAS
+pizza
